@@ -1,0 +1,15 @@
+{
+  "name": "chat2",
+  "version": "1.0.0",
+  "description": "firebase chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "reload -b --port 8012"
+  },
+  "author": "Gabriel Luciano",
+  "license": "ISC",
+  "devDependencies": {
+    "reload": "^2.2.2"
+  }
+}
